@@ -9,13 +9,13 @@ The problem here is the weed seedling is much like crop seedling  and our goal i
 ## Install
 his project requires Python 3.5 or later and the following Python libraries installed:
 
-*NumPy
-*Pandas
-*matplotlib
-*scikit-learn
-*Keras
+* [NumPy]
+* [Pandas]
+* [matplotlib]
+* [scikit-learn]
+* [Keras]
 You will also need to have software installed to run and execute a colab notebook or jupyter notebook
 ## Code
 A template notebook is provided as FINAL_seedling.ipynb
 ## Data
-you can the plant seedling data set [here] (https://www.kaggle.com/c/plant-seedlings-classification/data)
+you can the plant seedling data set [here](https://www.kaggle.com/c/plant-seedlings-classification/data)
