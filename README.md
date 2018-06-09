@@ -6,6 +6,8 @@ In This  project I will use one of kaggle Competition’s  dataset, this dataset
 
 The database have been recorded at Aarhus University Flakkebjerg Research station in a collaboration between University of Southern Denmark and Aarhus University. You can find the dataset here , the dataset has 1.7 G as training set (Nonsegmented single plants)
 The problem here is the weed seedling is much like crop seedling  and our goal is to be able to differentiate between them using Machine learning and deep learning techniques.
+
+you can find project report [here](https://github.com/Nourahussein/Plant-seedling-classification/blob/master/Capstone%20Project%20report%20.pdf)
 ## Install
 his project requires Python 3.5 or later and the following Python libraries installed:
 
